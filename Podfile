@@ -6,7 +6,7 @@ target 'TestCICD' do
   use_frameworks!
   pod 'IQKeyboardManagerSwift', '6.3.0'
   pod 'Alamofire'
-  pod 'SDWebImage', '~> 5.0'
+  pod 'SDWebImage', '~> 5.10.0'
   # Pods for TestCICD
 
 end
